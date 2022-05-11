@@ -1,0 +1,1 @@
+##Maquetado utilizando Bootstrap, HTML y CSS. Imitando la plataforma de Streaming NEtflix. 
